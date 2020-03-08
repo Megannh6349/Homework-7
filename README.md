@@ -9,7 +9,11 @@ Megan Henning
 
 ***** I started by creating the skeleton of the page using Bootstrap.
 **** Once this was done, I added links to the nav bar and pushed them to test them out.
-*** They !<-- did/did not --> work
+*** They did NOT work.
+** Then, I added my email to the contact me page using "mailto: (myemail)"
+* This worked!
+** I attempted to download a theme using Jekyll.
+***This did not work.
 =======
 ## Welcome to GitHub Pages
 
