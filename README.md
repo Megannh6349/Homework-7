@@ -7,13 +7,15 @@ Megan Henning
 # This is my first attempt at creating a portfolio for myself.
 # It has an about me, portfolio, and contact section.
 
-***** I started by creating the skeleton of the page using Bootstrap.
-**** Once this was done, I added links to the nav bar and pushed them to test them out.
-*** They did NOT work.
-** Then, I added my email to the contact me page using "mailto: (myemail)"
-* This worked!
-** I attempted to download a theme using Jekyll.
-***This did not work.
+********** I started by creating the skeleton of the page using Bootstrap.
+******** Once this was done, I added links to the nav bar and pushed them to test them out.
+****** They did NOT work.
+**** Then, I added my email to the contact me page using "mailto: (myemail)"
+** This worked!
+**** I attempted to download a theme using Jekyll.
+****** This did not work.
+******** However, I was able to modify my links for the nav bar and get them to work!
+********** I was trying to predict the destination of the links instead of just attaching links to pages the same way I would for a picture.
 =======
 ## Welcome to GitHub Pages
 

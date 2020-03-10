@@ -48,3 +48,13 @@ footer {
     margin-bottom: 15px;
     font-size: small;
 }
+.card {
+    align-content: center;
+}
+.card-img-top {
+    align-content: center;
+    margin: auto;
+    padding: auto;
+    max-width: 100%;
+    height: auto;
+}
