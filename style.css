@@ -35,7 +35,6 @@ margin-bottom: 25px;
 #shiaLebouf {
     font-size: small;
     font-style: italic;
-    text-shadow: red;
     padding-right: 50px;
     padding-left: 50px;
     text-align: center;
@@ -50,6 +49,7 @@ margin-bottom: 25px;
 .card {
     align-content: center;
 }
+
 .card-img-top {
     align-content: center;
     margin: auto;
@@ -60,4 +60,10 @@ margin-bottom: 25px;
 
 .center {
     text-align: center;
+}
+
+.footer {
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
 }
