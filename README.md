@@ -1,57 +1,110 @@
-<<<<<<< HEAD
-# Homework-2
-Megan Henning
+# Unit 08 Project 1 Homework: Professional Materials
 
-#### WELCOME TO MY PORTFOLIO!
+Now that you've had some practice with APIs and have a project to share, you'll be updating your portfolio page and other materials to build toward being employer competitive.
 
-# This is my first attempt at creating a portfolio for myself.
-# It has an about me, portfolio, and contact section.
+If you are opting out of career services, this is *still a required assignment*. Part of being a web developer means being a part of a community. Having a place to share your projects is *necessary* if you're applying for jobs, but is still *critical* on your journey as a developer.
 
-********** I started by creating the skeleton of the page using Bootstrap.
-******** Once this was done, I added links to the nav bar and pushed them to test them out.
-****** They did NOT work.
-**** Then, I added my email to the contact me page using "mailto: (myemail)"
-** This worked!
-**** I attempted to download a theme using Jekyll.
-****** This did not work.
-******** However, I was able to modify my links for the nav bar and get them to work!
-********** I was trying to predict the destination of the links instead of just attaching links to pages the same way I would for a picture.
-=======
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Megannh6349/Homework-2/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Requirements
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* Updated portfolio featuring project 1 and two exemplary homework assignments. 
 
-### Markdown
+* Update GitHub profile with pinned repositories featuring project 1 and two exemplary assignments. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* Updated resume
 
-```markdown
-Syntax highlighted code block
+* Updated LinkedIn profile
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## Grading
 
-1. Numbered
-2. List
+| Requirement      | Weight |
+|---               |---     |
+| Portoflio        | 40%    |
+| GitHub Profile   | 40%    |
+| Resume           | 10%    |
+| LinkedIn Profile | 10%    |
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+## Instructions
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+1. [Updated Portfolio](#updated-portfolio)
+2. [GitHub Profile](#updated-github-profile)
+3. [Updated Resume](#updated-resume)
+4. [Updated LinkedIn](#updated-linkedin)
 
-### Jekyll Themes
+### Updated Portfolio
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Megannh6349/Homework-2/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Your updated site should have the following content:
 
-### Support or Contact
+* Your name
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
->>>>>>> ca10846dd272d75c36979f4e36b14205cceb26a4
+* Links to your GitHub profile & LinkedIn page as well as your email address and phone number
+
+* A link to a PDF of your resume
+
+* A list of projects. For each project, make sure you have the following:
+
+  * Project title
+
+  * Link to the deployed version
+
+  * Link to the GitHub repository
+
+  * Screenshot of the deployed application
+
+
+#### Design
+
+Unfortunately, this is where it gets a little bit subjective. Your site should look
+"polished." Here are a few guidelines on what that means:
+
+* Mobile-first design
+
+* Choose a color palette for your site so it doesn't just look like
+the default bootstrap theme or an unstyled HTML site.
+
+* Make sure the font size is large enough to read, and that the colors don't cause eye strain.
+
+
+### Updated GitHub Profile 
+
+* If you haven't yet, now is the time to update the following in your GitHub profile: 
+
+    * Profile picture
+
+    * Bio
+
+    * Location
+
+    * Email
+
+    * Link to your portfolio
+
+* Employers (and potential collaborators) _will_ look at your GitHub profile, so put your best face forward. 
+
+* Pin some repos that you want to highlight
+
+  * Navigate to [GitHub](https://github.com/) and go to your profile.
+
+  * Click "Customize your pins"
+
+  * Click the checkboxes for your project and 2-3 homework assignments that you would like to share
+
+  * Make sure each of these projects is deployed and add a link to the deployed project in their README files
+
+* Follow your classmates. They are the beginning of your professional network and being a developer is as much about being a part of the community as it is writing code. 
+
+
+### Updated Resume 
+
+Submit a clear, concise and compelling resume, tailored to the type of job you’re looking for.
+
+
+### Updated LinkedIn Profile 
+
+Update your LinkedIn Profile with a strong bio statement, a professional photo, and links to your Github and portfolio.
+
+
+- - -
+© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
