@@ -1,5 +1,5 @@
 body {
-    background-image: linear-gradient(-90deg, rgba(67, 145, 165, 0), rgba(67, 145, 165, 1));
+    background-image: linear-gradient(-90deg, rgba(67, 145, 165, 0), #00acc1);
 }
 
 h1 {
@@ -22,10 +22,14 @@ h1 {
     float: right;
 }
 
-.aboutMeText {
+/* div {
 font-size: large;
 font-family: 'Roboto Condensed', sans-serif;
 margin-bottom: 25px;
+} */
+
+.aboutMeText {
+    font-size: medium;
 }
 
 #shiaLebouf {
@@ -43,11 +47,6 @@ margin-bottom: 25px;
 
 #contactMe {}
 
-footer {
-    text-align: center;
-    margin-bottom: 15px;
-    font-size: small;
-}
 .card {
     align-content: center;
 }
@@ -57,4 +56,8 @@ footer {
     padding: auto;
     max-width: 100%;
     height: auto;
+}
+
+.center {
+    text-align: center;
 }
